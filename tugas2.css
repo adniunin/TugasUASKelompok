@@ -1,0 +1,104 @@
+body{
+	background-image: url('images/1.jpg');
+}
+.b1 {
+	background-color: white;
+	max-width: 1080px; /*Max 1080 bisa kurang dr 1080*/
+	margin: 20px auto;
+	text-align: justify;
+	border: 2px solid black;
+}
+header{
+	background-image: url('images/sederhana.jpg');
+	padding: 180px;
+	background-size: cover;
+	
+}
+.gambar {
+	background-repeat: no-repeat;
+	width: 300px;
+	float: left;
+	margin: 10px 5px 10px 5px;
+	height: 200px;	
+	padding: 10px;
+}
+.gambar img{
+	width :100%;
+	height:100%;
+}
+.text {	
+	color: blue;
+	width: 320px;
+	float: left;
+	margin: 10px 5px 10px 5px;
+	height: 200px;	
+	padding: 10px;
+	text-align: justify;
+}
+.menu {
+	color: purple; 
+	width: 290px;
+	float: left;
+	margin: 10px 5px 10px 5px;
+	height: 200px;	
+	padding: 10px;
+	text-align: left;
+}
+
+.gambar1 {
+	background-repeat: no-repeat;
+	width: 300px;
+	float: left;
+	margin: 10px 5px 10px 5px;
+	height: 200px;	
+	padding: 10px;
+}
+.gambar1 img{
+	width :100%;
+	height:100%;
+}
+.text1 {
+	color: blue;
+	width: 320px;
+	float: left;
+	margin: 10px 5px 10px 5px;
+	height: 200px;	
+	padding: 10px;
+	text-align: justify;
+}
+.menu1 { 
+	color: purple;
+	width: 290px;
+	float: left;
+	margin: 10px 5px 10px 5px;
+	height: 200px;	
+	padding: 10px;
+	text-align: left;
+}
+.gambar2 {
+	background-repeat: no-repeat;
+	width: 300px;
+	float: left;
+	margin: 10px 5px 10px 5px;
+	height: 200px;	
+	padding: 10px;
+}
+.gambar2 img{
+	width :100%;
+	height:100%;
+}
+.text2 {
+	color: blue;	
+	width: 320px;
+	float: left;
+	margin: 10px 5px 10px 5px;
+	height: 200px;	
+	padding: 10px;
+	text-align: justify;
+}
+footer{
+	clear: both;
+	background-color: green;
+	color: white;
+	
+}
